@@ -1,0 +1,16 @@
+{
+  "name": "chantbok-facebook",
+  "version": "1.0.0",
+  "description": "Chatbot para automatizar repuesta a redes sociales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "migueljimeenzaquino@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
